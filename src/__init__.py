@@ -10,10 +10,10 @@ from src.visualizations import ChartGenerator
 from src.ui_components import UIComponents
 
 __all__ = [
-    'DataLoader',
-    'FinancialCalculator',
-    'PeriodFinancials',
-    'PersonFinancials',
-    'ChartGenerator',
-    'UIComponents'
+    "DataLoader",
+    "FinancialCalculator",
+    "PeriodFinancials",
+    "PersonFinancials",
+    "ChartGenerator",
+    "UIComponents",
 ]
