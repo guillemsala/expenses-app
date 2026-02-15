@@ -238,6 +238,7 @@ dependencies = [
     { name = "pandas" },
     { name = "plotly" },
     { name = "pylint" },
+    { name = "ruff" },
     { name = "sqlalchemy" },
     { name = "streamlit" },
 ]
@@ -255,6 +256,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=2.2" },
     { name = "plotly", specifier = ">=6.5.2" },
     { name = "pylint", specifier = ">=4.0.4" },
+    { name = "ruff", specifier = ">=0.15.1" },
     { name = "sqlalchemy", specifier = ">=2.0" },
     { name = "streamlit", specifier = ">=1.32" },
 ]
